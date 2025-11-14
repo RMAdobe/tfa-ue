@@ -2,5 +2,9 @@
   "mappings": [
     "/content/tfa-universaleditor/:/",
     "/content/tfa-universaleditor/configuration:/.helix/config.json",
+    "/content/tfa-universaleditor/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/tfa-universaleditore/"
   ]
 }

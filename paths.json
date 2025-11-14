@@ -2,9 +2,5 @@
   "mappings": [
     "/content/tfa-ue/:/",
     "/content/tfa-ue/configuration:/.helix/config.json",
-    "/content/tfa-ue/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/tfa-ue/"
   ]
 }
